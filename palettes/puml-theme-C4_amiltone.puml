@@ -43,6 +43,8 @@
 !$COLOR_BASIC_900="#3C3F47"
 
 ' Theme specification
+!$THEME = "C4_amiltone"
+
 !$STEREOTYPE_FONT_SIZE ?= 12
 !$TECHN_FONT_SIZE ?= 12
 !$ELEMENT_FONT_COLOR ?= $COLOR_BASIC_900
